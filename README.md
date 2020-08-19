@@ -22,9 +22,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/-Vue-222222?style=flat&logo=Vue&logoColor=61DAFB)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
-![XCode](https://img.shields.io/badge/-Visual Studio Code-222222?style=flat&logo=XCode&logoColor=1575F9)
+![Vue.js](https://img.shields.io/badge/-Vue.js-222222?style=flat&logo=Vue&logoColor=61DAFB)
 
 ## My GitHub Stats(Only Public Contributions ) -
   
