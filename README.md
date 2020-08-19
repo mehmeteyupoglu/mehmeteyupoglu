@@ -30,7 +30,7 @@
 [![Vuetify](https://img.shields.io/badge/-Vuetify-02f161?style=flat&logo=vuetify&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 
-## My GitHub Stats(Only Public Contributions ) -
+## My GitHub Stats (Only Public Contributions )
   
   ![Github Stats By Mehmet](https://github-readme-stats.vercel.app/api?username=mehmeteyupoglu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
 </br>
