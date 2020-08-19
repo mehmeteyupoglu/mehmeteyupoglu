@@ -1,22 +1,9 @@
-### Hi there 👋
+### Hi there 👋 You just entered the sphere of a lunatic and an ardent frontend developer.  
 
-## Currently under development
-<!--
-**mehmeteyupoglu/mehmeteyupoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mehmeteyupoglu)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-eyupoglu/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mehmeteyupoglu2@gmail.com)
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on an e-commerce project
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## My GitHub Stats(Only Public Contributions 😑) -
   
