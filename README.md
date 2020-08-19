@@ -22,15 +22,21 @@
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-[![Vue.js](https://img.shields.io/badge/-Vuejs-222222?style=flat&logo=vue.js&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
+[![Vue.js](https://img.shields.io/badge/-Vuejs-green?style=flat&logo=vue.js&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
-[![Vuetify](https://img.shields.io/badge/-Vuetify-blue?style=flat&logo=vuetify&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
+[![Vuetify](https://img.shields.io/badge/-Vuetify-green?style=flat&logo=vuetify&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 
 ## My GitHub Stats(Only Public Contributions ) -
   
   ![Github Stats By Mehmet](https://github-readme-stats.vercel.app/api?username=mehmeteyupoglu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
 </br>
+
+<div align="center">
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohitp98.visitor-badge)
+
+</div>  
