@@ -7,12 +7,12 @@
 
 ##### Languages I use
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
 
