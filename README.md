@@ -1,4 +1,4 @@
-## Hi there 👋 You just entered the sphere of a lunatic and an ardent frontend developer.  
+## Hi there 👋 You just entered the sphere of an enthusiastic and an ardent frontend developer.  
 
 [![GitHub followers](https://img.shields.io/github/followers/mehmeteyupoglu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mehmeteyupoglu?tab=followers)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-eyupoglu/)
