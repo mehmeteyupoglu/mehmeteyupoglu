@@ -12,7 +12,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
 
