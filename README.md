@@ -1,4 +1,4 @@
-## Hi there 👋 You just entered the sphere of an enthusiastic and an ardent frontend developer.  
+## Hi there 👋 You just entered the sphere of an ardent frontend developer.  
 
 [![GitHub followers](https://img.shields.io/github/followers/mehmeteyupoglu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mehmeteyupoglu?tab=followers)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-eyupoglu/)
@@ -36,3 +36,6 @@
 </br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmeteyupoglu)
+
+I also strictly follow OSSU Curriculum. Who wouldn't want to exploit the top courses on computer science, after all? 
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
