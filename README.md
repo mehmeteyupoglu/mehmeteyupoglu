@@ -11,7 +11,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
 
 ##### Some of the technologies I have worked with
 
