@@ -20,7 +20,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 [![Vue.js](https://img.shields.io/badge/-Vuejs-222222?style=flat&logo=vue.js&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
-[![Ember.js](https://img.shields.io/badge/-Emberjs-222222?style=flat&logo=ember.js&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
 <br/>
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
